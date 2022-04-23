@@ -39,8 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-(insert gif link here)
-
+![2022-04-22-20-01-23](https://user-images.githubusercontent.com/100540818/164836621-3e3db1c6-45d7-4773-bf49-fbdc9089f435.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -87,4 +86,4 @@ To round out the project, I would allow for G-Mail logins so that a local and gl
 This would aid in making the game more fun and collaborative, where friends could compete. 
 
 ## Interview Recording URL Link
-[My 5-minute Interview Recording] - 
+[My 5-minute Interview Recording] - https://www.youtube.com/watch?v=_6Fd-O1mTtY&t=3s
